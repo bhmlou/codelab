@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# macOS helper files that are super annoying
+.DS_Store
